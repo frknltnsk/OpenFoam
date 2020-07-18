@@ -1,3 +1,3 @@
-Hi living beings,
+Hi, 
 
-why i am here is a history.
+I am here because of OpenFoam studies and developing myself by using OpenFoam applications.
